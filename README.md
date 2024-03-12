@@ -65,7 +65,8 @@ ____
 ## Задание 07
 С помощью срезов выводим значение
 
-![image](https://github.com/MTrucky/laba_1/assets/146337304/d5d9cf0e-4e5e-41b6-9965-c86ba5c17097)
+![image](https://github.com/arslanbekovdamir/lab1/assets/163137977/1f38cdd7-0acf-4a7f-97ed-8f05324346e8)
+
 ____
 ## Задание 08
 Создаем множество цветоы с помощью функции set
