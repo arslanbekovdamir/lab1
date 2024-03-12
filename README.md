@@ -60,12 +60,13 @@ print(f"А другие три песни звучат {g} минут")
 
 print(f"А другие три песни звучат {g} минут") - вывод результата в форматированной строке.
 
-![image](https://github.com/MTrucky/laba_1/assets/146337304/cd3bffc8-04a0-4a12-b61f-faf31b73b474)
+![image](https://github.com/arslanbekovdamir/lab1/assets/163137977/1f38cdd7-0acf-4a7f-97ed-8f05324346e8))
 ____
 ## Задание 07
 С помощью срезов выводим значение
+![изображение](https://github.com/arslanbekovdamir/lab1/assets/163137977/20a2b228-04a3-4024-8716-b5a8c5456aab)
 
-![image](https://github.com/arslanbekovdamir/lab1/assets/163137977/1f38cdd7-0acf-4a7f-97ed-8f05324346e8)
+
 
 ____
 ## Задание 08
@@ -77,12 +78,15 @@ ____
 
 С помощью difference возвращаем множество, полученное из различий между множествами
 
-![image](https://github.com/MTrucky/laba_1/assets/146337304/3aacee5d-6270-496c-a91a-285ebbc70029)
+(![изображение](https://github.com/arslanbekovdamir/lab1/assets/163137977/f3f71da9-d36b-4fae-b74e-89cc6000334f)
+
 ____
 ## Задание 09
 В переменной sweets создаем словарь цен на продукты
 
 Выводим их
+![изображение](https://github.com/arslanbekovdamir/lab1/assets/163137977/72a08f85-67e4-410f-ba9d-17a5bab99efe)
+
 ____
 ## Задание 10
 1. В lamp_cost и др находим общую сумму товаров
