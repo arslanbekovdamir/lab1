@@ -95,4 +95,13 @@ ____
 
 ![image](https://github.com/MTrucky/laba_1/assets/146337304/e411c834-7176-443a-bb46-3cb5e26a6b93)
 ____
-конец
+# 2 Лаба
+## 1 Задание
+Использовал команду `product` из модуля `itertools`
+
+Просчитал все варианты кодового слова
+![изображение](https://github.com/arslanbekovdamir/lab1/assets/163137977/b6a9da40-de0b-4054-b345-28a52cc74091)
+
+## 2 Задание
+
+## 3 Задание
