@@ -133,13 +133,24 @@ ____
 ## 2 Задание, итеративное
 Сделал формулу по которой будет высчитываться следующее значение списка, и включил её в ограниченый цикл, чтобы показать результат
 
-![изображение](https://github.com/arslanbekovdamir/lab1/assets/163137977/b3e1eb4b-eb0f-475c-9212-599b3287f34b)
+![изображение](https://github.com/arslanbekovdamir/lab1/assets/163137977/b1940a5b-1494-4910-ac1c-02e2de64d11e)
+
 
 ____
 ## 2 Задание, рекурсивное
 Сделал функцию и реализовал в ней рекурсию, высчитывающую следующее значение списка
 
-![изображение](https://github.com/arslanbekovdamir/lab1/assets/163137977/a8ab477e-e441-4987-b894-1d2e9cd00358)
+![изображение](https://github.com/arslanbekovdamir/lab1/assets/163137977/3126d4a7-4c2a-4a30-9d7d-1490c64f28d9)
+____
+## Использованные источники
+Рекурсивные функции на пайтоне:
+https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23 
+____
+Обьяснение работы рекурсии:
+https://habr.com/ru/articles/337030/
+
+
+
 
 
 
